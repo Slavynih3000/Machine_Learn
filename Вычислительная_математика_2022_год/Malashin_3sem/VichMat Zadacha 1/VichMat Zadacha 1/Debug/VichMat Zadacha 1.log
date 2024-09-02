@@ -1,0 +1,4 @@
+﻿  VichMat Zadacha 1.cpp
+C:\Programming in Visual Studio\3_sem\Malashin\Вычислительная_математика_2022_год\Malashin_3sem\VichMat Zadacha 1\VichMat Zadacha 1\VichMat Zadacha 1.cpp(12,11): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Programming in Visual Studio\3_sem\Malashin\Вычислительная_математика_2022_год\Malashin_3sem\VichMat Zadacha 1\VichMat Zadacha 1\VichMat Zadacha 1.cpp(74,22): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+  VichMat Zadacha 1.vcxproj -> C:\Programming in Visual Studio\3_sem\Malashin\Вычислительная_математика_2022_год\Malashin_3sem\VichMat Zadacha 1\Debug\VichMat Zadacha 1.exe

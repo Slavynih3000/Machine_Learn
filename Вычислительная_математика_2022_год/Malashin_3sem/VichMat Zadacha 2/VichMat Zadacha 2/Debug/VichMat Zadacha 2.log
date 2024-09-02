@@ -1,0 +1,14 @@
+﻿  Release.cpp
+C:\Programming in Visual Studio\3_sem\Malashin\Вычислительная_математика_2022_год\Malashin_3sem\VichMat Zadacha 2\VichMat Zadacha 2\Matrix.h(82,31): warning C4244: =: преобразование "_Ty" в "int", возможна потеря данных
+          with
+          [
+              _Ty=double
+          ]
+  VichMat Zadacha 2.cpp
+C:\Programming in Visual Studio\3_sem\Malashin\Вычислительная_математика_2022_год\Malashin_3sem\VichMat Zadacha 2\VichMat Zadacha 2\Matrix.h(82,31): warning C4244: =: преобразование "_Ty" в "int", возможна потеря данных
+          with
+          [
+              _Ty=double
+          ]
+  Создание кода...
+  VichMat Zadacha 2.vcxproj -> C:\Programming in Visual Studio\3_sem\Malashin\Вычислительная_математика_2022_год\Malashin_3sem\VichMat Zadacha 2\Debug\VichMat Zadacha 2.exe
